@@ -199,5 +199,14 @@
   },
   "2.2.40": {
     "en": "Fixed unhandled promise rejections"
+  },
+  "2.2.50": {
+    "en": "Added new Namron Devices - New dimmers and thermostat"
+  },
+  "2.2.52": {
+    "en": "Added new Dimmer Device - 4512750/51 - Namron LED Dimmer 2.0"
+  },
+  "2.2.53": {
+    "en": "Added new Dimmer Device - 4512750/51 - Namron LED Dimmer 2.0, Fixed some device images."
   }
 }
